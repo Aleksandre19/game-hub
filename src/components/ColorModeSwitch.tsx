@@ -10,7 +10,7 @@ const ColorModeSwitch = () => {
         onChange={toggleColorMode}
       />
       <Box marginLeft={2}>
-        <Text>Color Mode</Text>
+        <Text whiteSpace="nowrap">Color Mode</Text>
       </Box>
     </Flex>
   );
