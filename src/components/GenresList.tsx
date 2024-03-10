@@ -8,7 +8,6 @@ import {
   List,
   ListItem,
   Spinner,
-  Text,
 } from "@chakra-ui/react";
 import getCroppedImage from "../services/imag-url";
 
